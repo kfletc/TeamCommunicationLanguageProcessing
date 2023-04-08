@@ -1,0 +1,43 @@
+feature ideas
+** = may or may not filter stop words or mispellings
+WILL filter out punctuation
+need to decide on filtering common words or mispellings
+
+	for team performance classification
+		average turn taking
+		total turn taking per team
+		message frequency per team
+		total positive sentiment rating **
+		total negative sentiment rating **
+		total neutral sentiment rating per team **
+		total compound sentiment rating per team ?? **
+		total feature words per team **
+		total parts of speech features per team
+		turn taking per simulation
+		
+	for individual performance classification
+		individual turn taking
+		individual message frequency
+		individual positive sentiment rating **
+		individual negative sentiment rating **
+		individual neutral sentiment rating **
+		individual compound sentiment rating?? **
+		total feature words from individual
+		total part of speech features from individual
+		turn taking per simulation from individual
+		
+	for individual generation of SA score on a message
+		message sentiment rating in all categories **
+		feature words from message **
+		total part of speech features from message
+		message length??
+		
+		attempt to classify each SA score individually against all others + none so that ones with two won't hurt classification scores
+		may attempt to filter out messages without SA score and attempt classifying just the ones with against each others
+		
+	
+		
+		
+	
+	
+		
