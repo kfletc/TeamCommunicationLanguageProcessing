@@ -1,0 +1,319 @@
+,SA,Turn Taking,Time,Total,Simulation,Total Turns,Total Turns 1,Total Turns 2,Total Turns 3,Total Turns 4
+0,,2,,hi,0,304,37,86,84,97
+1,,1,00:00:06.490000,hey there,0,304,37,86,84,97
+2,,4,00:00:26.831000,any ideas on strategy?,0,304,37,86,84,97
+3,,2,00:00:35.704000,None You,0,304,37,86,84,97
+4,,4,00:01:09.545000,im sure quandrants will work jus fine for an even area,0,304,37,86,84,97
+5,,1,00:01:15.194000,we should just try diferent areas,0,304,37,86,84,97
+6,,4,00:01:50.932000,keep up with the edges so it cant advance,0,304,37,86,84,97
+7,,3,00:02:24.227000,I am unable to select my vehicle,0,304,37,86,84,97
+8,,4,00:02:33.038000,one firetruck and heli per forest patch,0,304,37,86,84,97
+9,6.0,2,00:02:38.832000,Try another vehicle,0,304,37,86,84,97
+10,,3,00:02:44.945000,the forest to the bottom left is almost gone,0,304,37,86,84,97
+11,,3,00:03:10.972000,nope nothing. they made me restart my training. not working at all.,0,304,37,86,84,97
+12,,4,00:03:20.243000,lol,0,304,37,86,84,97
+13,,3,00:03:27.467000,yea awesome.,0,304,37,86,84,97
+14,,2,00:03:34.790000,Oh no!,0,304,37,86,84,97
+15,,2,00:03:49.852000,Still nothing?,0,304,37,86,84,97
+16,,4,00:03:54.684000,ill bet the houses count for more than the forest\,0,304,37,86,84,97
+17,,1,00:04:10.077000,hope so,0,304,37,86,84,97
+18,,2,00:04:14.471000,That sounds like a safe bet,0,304,37,86,84,97
+19,3.0,3,00:04:26.555000,nope nothing. I agree about houses. no fires there though... you think the fires randomly pop up without having to have a fire near them?,0,304,37,86,84,97
+20,,2,00:04:35.865000,Yea probably,0,304,37,86,84,97
+21,,4,00:04:56.504000,stay zoomed out if you arent fighting a fire already to see if a new one pops up,0,304,37,86,84,97
+22,,2,00:05:16.723000,is this map small to you guys?,0,304,37,86,84,97
+23,,1,00:05:21.072000,yeah,0,304,37,86,84,97
+24,6.0,2,00:05:30.381000,Yea and I keep accidentally zooming in.,0,304,37,86,84,97
+25,,4,00:05:32.641000,there are only 3 water towers also,0,304,37,86,84,97
+26,,2,00:05:44.204000,It will probably get bigger,0,304,37,86,84,97
+27,,4,00:05:48.425000,so someone is going to have to share,0,304,37,86,84,97
+28,,4,00:05:55.858000,hopefully,0,304,37,86,84,97
+29,,2,00:06:21.605000,See any fires?,0,304,37,86,84,97
+30,,1,00:06:24.484000,now that we have 3 trucks each can have one tower,0,304,37,86,84,97
+31,,1,00:06:31.259000,no fires,0,304,37,86,84,97
+32,6.0,2,00:06:47.308000,So we just sit here and wait then?,0,304,37,86,84,97
+33,6.0,3,00:06:50.298000,so we get three trucks and one heli?,0,304,37,86,84,97
+34,,1,00:06:53.722000,looks like it,0,304,37,86,84,97
+35,3.0,2,00:07:03.359000,I didn't see where it specified?,0,304,37,86,84,97
+36,6.0,3,00:07:27.369000,i'm assuming our papers tell us what we are.,0,304,37,86,84,97
+37,4.0,1,00:07:31.474000,if it told you guys to get trucks then it specified in the paper,0,304,37,86,84,97
+38,,3,00:07:48.725000,fire in the middle of forest,0,304,37,86,84,97
+39,,2,00:07:49.156000,wow I totally got lucky and just chose the right one!,0,304,37,86,84,97
+40,,1,00:07:52.899000,fires,0,304,37,86,84,97
+41,,4,00:07:52.960000,k mine said heli but then i could only control a truck,0,304,37,86,84,97
+42,3.0,4,00:08:07.523000,i cant move,0,304,37,86,84,97
+43,6.0,3,00:08:18.098000,tell instructor,0,304,37,86,84,97
+44,,2,00:08:27.850000,What happens when the fuel level depletes?,0,304,37,86,84,97
+45,3.0,3,00:08:35.971000,before the real game actually starts...,0,304,37,86,84,97
+46,3.0,1,00:08:36.551000,no water,0,304,37,86,84,97
+47,6.0,3,00:08:44.479000,select a new vehicle?,0,304,37,86,84,97
+48,6.0,1,00:08:58.028000,when it depletes you need to get more water,0,304,37,86,84,97
+49,,4,00:09:05.168000,i got it working now,0,304,37,86,84,97
+50,6.0,2,00:09:06.838000,Okay hopefully that will work.,0,304,37,86,84,97
+51,3.0,3,00:09:24.755000,oh i thought you were saying there is another bar for fuel.,0,304,37,86,84,97
+52,4.0,2,00:09:41.199000,Well there is to the side of the screen.,0,304,37,86,84,97
+53,3.0,1,00:09:48.671000,not that  Iknow of,0,304,37,86,84,97
+54,3.0,2,00:09:51.987000,Where it shows your vehicle info,0,304,37,86,84,97
+55,3.0,3,00:09:57.189000,i thought that was wind speed,0,304,37,86,84,97
+56,,3,00:10:00,oh ok,0,304,37,86,84,97
+57,,4,00:00:00,spread out,1,304,37,86,84,97
+58,,2,00:00:03.806000,I'll take top\,1,304,37,86,84,97
+59,,3,00:00:07.860000,i still cant select anything,1,304,37,86,84,97
+60,,4,00:00:10.298000,bottom left,1,304,37,86,84,97
+61,,2,00:00:25.932000,top right sorry,1,304,37,86,84,97
+62,,3,00:00:30.253000,i've got bottom left,1,304,37,86,84,97
+63,,3,00:00:35.152000,:),1,304,37,86,84,97
+64,6.0,4,00:00:36.762000,keep an eye on wind direction,1,304,37,86,84,97
+65,,2,00:00:57.745000,Someone needs to take top left.,1,304,37,86,84,97
+66,6.0,3,00:01:09.368000,i'm going,1,304,37,86,84,97
+67,,4,00:01:12.360000,fire,1,304,37,86,84,97
+68,,4,00:01:34.522000,fire on the right,1,304,37,86,84,97
+69,,4,00:02:03.736000,quandrants are a b c d right?,1,304,37,86,84,97
+70,3.0,4,00:02:09.807000,like on a graph,1,304,37,86,84,97
+71,,3,00:02:21.449000,bottom right!,1,304,37,86,84,97
+72,,4,00:02:27.556000,need help in d,1,304,37,86,84,97
+73,,2,00:03:11.696000,Sp protect the cities first and foremost?,1,304,37,86,84,97
+74,,1,00:03:18.226000,yeah,1,304,37,86,84,97
+75,,3,00:03:22.846000,yes,1,304,37,86,84,97
+76,,4,00:03:28.853000,if you see fire head there first then type location while you move there,1,304,37,86,84,97
+77,,4,00:03:42.252000,b,1,304,37,86,84,97
+78,,4,00:04:05.526000,the fire also moves in a direction lets try to head it off,1,304,37,86,84,97
+79,,2,00:04:22.265000,Okay sounds good.,1,304,37,86,84,97
+80,,4,00:04:47.973000,c,1,304,37,86,84,97
+81,,3,00:05:09.987000,a,1,304,37,86,84,97
+82,,4,00:05:24.548000,good job guys!,1,304,37,86,84,97
+83,,4,00:05:30.039000,c,1,304,37,86,84,97
+84,,3,00:05:30.594000,i'm controlling four vehicles???,1,304,37,86,84,97
+85,,2,00:05:47.545000,B,1,304,37,86,84,97
+86,,4,00:06:01.984000,omw,1,304,37,86,84,97
+87,3.0,3,00:06:09.868000,does anyone else see that i'm controlling four in a?,1,304,37,86,84,97
+88,,4,00:06:16.922000,lol yeah,1,304,37,86,84,97
+89,,1,00:06:21.953000,yeah how did that happen?,1,304,37,86,84,97
+90,6.0,2,00:06:22.866000,Haha yea just go with it!,1,304,37,86,84,97
+91,,3,00:06:27.439000,i have no idea! :D,1,304,37,86,84,97
+92,6.0,2,00:06:31.437000,Maybe you can put out more fires that way!,1,304,37,86,84,97
+93,,3,00:06:32.146000,c,1,304,37,86,84,97
+94,,4,00:06:35.197000,this is now an RTS game,1,304,37,86,84,97
+95,,3,00:06:37.415000,a,1,304,37,86,84,97
+96,,2,00:06:37.894000,A,1,304,37,86,84,97
+97,,3,00:07:17.612000,houses,1,304,37,86,84,97
+98,,3,00:07:19.961000,a,1,304,37,86,84,97
+99,,4,00:07:20.236000,houses!,1,304,37,86,84,97
+100,,3,00:08:47.635000,11 minutes left,1,304,37,86,84,97
+101,,3,00:08:55.960000,not eleven 6 lol,1,304,37,86,84,97
+102,3.0,2,00:09:03.054000,Does that temp bar mean anything?,1,304,37,86,84,97
+103,,3,00:09:08.307000,speed,1,304,37,86,84,97
+104,,2,00:09:13.914000,Ah okay,1,304,37,86,84,97
+105,,3,00:09:15.733000,of wind i think,1,304,37,86,84,97
+106,,3,00:09:29.779000,aw now i only have 2 trucks,1,304,37,86,84,97
+107,,4,00:09:37.599000,alas,1,304,37,86,84,97
+108,,2,00:09:40.489000,Haha aww oh well.,1,304,37,86,84,97
+109,,1,00:09:40.799000,houses,1,304,37,86,84,97
+110,,4,00:10:31.315000,b,1,304,37,86,84,97
+111,,4,00:11:16.013000,middl3e,1,304,37,86,84,97
+112,,4,00:11:34.797000,c,1,304,37,86,84,97
+113,,3,00:12:07.844000,well that's over,1,304,37,86,84,97
+114,,4,00:12:33.905000,still have most the houses though,1,304,37,86,84,97
+115,,1,00:12:35.405000,ok then,1,304,37,86,84,97
+116,,4,00:12:41.491000,heh,1,304,37,86,84,97
+117,,2,00:12:42.644000,Dang that went fast,1,304,37,86,84,97
+118,,1,00:12:50.054000,no joke,1,304,37,86,84,97
+119,,4,00:12:53.344000,c,1,304,37,86,84,97
+120,3.0,3,00:12:56.954000,she came over and fixed my glitch :(,1,304,37,86,84,97
+121,,4,00:13:03.294000,aww,1,304,37,86,84,97
+122,,1,00:13:05.269000,aw bummer,1,304,37,86,84,97
+123,,2,00:13:08.653000,Dang,1,304,37,86,84,97
+124,,4,00:13:10.019000,ive got fire,1,304,37,86,84,97
+125,,3,00:13:19.691000,where?,1,304,37,86,84,97
+126,,4,00:13:26.275000,it wont go out,1,304,37,86,84,97
+127,,4,00:13:40.045000,c,1,304,37,86,84,97
+128,,2,00:13:48.300000,I don't see it..,1,304,37,86,84,97
+129,,3,00:13:51.718000,me either,1,304,37,86,84,97
+130,,4,00:13:55.620000,im circling it anyone else see it?,1,304,37,86,84,97
+131,,2,00:14:00.957000,Nope,1,304,37,86,84,97
+132,,3,00:14:05.595000,nope,1,304,37,86,84,97
+133,,1,00:14:05.963000,i don't see any movement,1,304,37,86,84,97
+134,,4,00:14:07.898000,wtf,1,304,37,86,84,97
+135,,2,00:14:12.694000,But i see you circling...,1,304,37,86,84,97
+136,6.0,1,00:14:13.915000,here we go,1,304,37,86,84,97
+137,3.0,3,00:14:13.975000,i c u,1,304,37,86,84,97
+138,,1,00:14:22.869000,north,1,304,37,86,84,97
+139,,3,00:14:23.754000,a,1,304,37,86,84,97
+140,,4,00:14:26.170000,a,1,304,37,86,84,97
+141,,2,00:14:56.634000,Sorry I lost my truck,1,304,37,86,84,97
+142,,4,00:00:00,hey guys,2,304,37,86,84,97
+143,,3,00:00:00,ey ey,2,304,37,86,84,97
+144,,2,00:00:00,hey so what do you guys think,2,304,37,86,84,97
+145,,3,00:00:00,more houses than last time,2,304,37,86,84,97
+146,,4,,new map,2,304,37,86,84,97
+147,6.0,3,00:00:15.017000,i think i want to figure out how to do my glitch again,2,304,37,86,84,97
+148,,2,00:00:20.022000,And much closer to the trees,2,304,37,86,84,97
+149,3.0,4,00:00:20.887000,i didnt know hat the truck puts out fire better than the heli,2,304,37,86,84,97
+150,,1,00:00:23.624000,yeah that really helped,2,304,37,86,84,97
+151,,4,00:00:28.633000,lol,2,304,37,86,84,97
+152,,2,00:00:29.891000,Haha yea that was awesome!,2,304,37,86,84,97
+153,,3,00:00:32.522000,I have 2 helis,2,304,37,86,84,97
+154,3.0,1,00:00:33.440000,it has a larger tank,2,304,37,86,84,97
+155,,3,00:00:37.064000,:D,2,304,37,86,84,97
+156,3.0,4,00:00:41.693000,less speed though,2,304,37,86,84,97
+157,,3,00:00:47.767000,i dunno whats going on... lol,2,304,37,86,84,97
+158,3.0,2,00:00:51.071000,I think the firs trucks carry more water but th ehelicopters are faster,2,304,37,86,84,97
+159,3.0,1,00:00:54.541000,heli gets there quicker but it barely does anything,2,304,37,86,84,97
+160,,4,00:01:02.681000,ok so im thinking that fire doesnt start in the houses directly,2,304,37,86,84,97
+161,,2,00:01:13.015000,Yea so we should divide up the helis and the trucks,2,304,37,86,84,97
+162,,4,00:01:13.834000,it has to start in the forest,2,304,37,86,84,97
+163,,3,00:01:14.585000,it did in a,2,304,37,86,84,97
+164,,1,00:01:16.816000,looks that way,2,304,37,86,84,97
+165,,3,00:01:26.593000,middle remember all the way to the left? \,2,304,37,86,84,97
+166,6.0,4,00:01:44.961000,yes so we should still have our own quandrant but stay in the forest,2,304,37,86,84,97
+167,,2,00:01:50.287000,I agree,2,304,37,86,84,97
+168,,1,00:01:54.743000,easy enough,2,304,37,86,84,97
+169,,2,00:01:58.962000,And maybe more to th emiddle,2,304,37,86,84,97
+170,,4,00:02:05.113000,agreed,2,304,37,86,84,97
+171,,1,00:02:07.810000,we had a pretty good system last time,2,304,37,86,84,97
+172,,2,00:02:13.981000,i think so!,2,304,37,86,84,97
+173,,3,00:02:15.759000,3 towers,2,304,37,86,84,97
+174,,2,00:02:24.390000,There was really no saving that last fire...,2,304,37,86,84,97
+175,,4,00:02:26.368000,i did a little screen watching of other teams we didnt do as bad as some,2,304,37,86,84,97
+176,,1,00:02:32.080000,the whole giant fire was really nothing we could do,2,304,37,86,84,97
+177,,3,00:02:35.380000,ha no way,2,304,37,86,84,97
+178,,4,00:02:40.891000,ya,2,304,37,86,84,97
+179,,2,00:02:41.465000,yea that's what I figured.,2,304,37,86,84,97
+180,,4,00:02:52.313000,lol,2,304,37,86,84,97
+181,,3,00:02:54.290000,awww,2,304,37,86,84,97
+182,3.0,2,00:02:55.894000,Well now we know!,2,304,37,86,84,97
+183,,4,00:02:59.061000,shucks,2,304,37,86,84,97
+184,3.0,3,00:03:14.665000,sad day... anyways... so for the next 7 minutes...,2,304,37,86,84,97
+185,,4,00:03:36.119000,so what have we decided?,2,304,37,86,84,97
+186,,2,00:03:41.679000,I don't like that the one tower is all the way up in the top right...,2,304,37,86,84,97
+187,,2,00:03:46.351000,There's nothing up there...,2,304,37,86,84,97
+188,,3,00:03:51.400000,same placement,2,304,37,86,84,97
+189,,3,00:03:57.191000,so useless..,2,304,37,86,84,97
+190,,2,00:04:02.905000,But no houses there this time.. :.,2,304,37,86,84,97
+191,,1,00:04:17.436000,looks like I got 2 helicopters,2,304,37,86,84,97
+192,,4,00:04:21.660000,all of the houses are kinda close to the forest this time,2,304,37,86,84,97
+193,,3,00:04:23.861000,tehe,2,304,37,86,84,97
+194,,4,00:04:26.559000,coolio,2,304,37,86,84,97
+195,6.0,2,00:04:43.328000,Yea we'll definitely need to stay focused on the houses.,2,304,37,86,84,97
+196,,4,00:04:47.546000,im a truck this time,2,304,37,86,84,97
+197,,3,00:04:52.237000,me 2,2,304,37,86,84,97
+198,,2,00:05:03.700000,Are you supposed to be a truck?,2,304,37,86,84,97
+199,6.0,4,00:05:09.509000,lets find positions in the quadrants we can all agree upon,2,304,37,86,84,97
+200,,3,00:05:14.536000,yea,2,304,37,86,84,97
+201,,1,00:05:18.341000,I found the elsie copter if any of you need it,2,304,37,86,84,97
+202,,4,00:05:29.377000,got it,2,304,37,86,84,97
+203,6.0,2,00:05:37.795000,I'm going to be in b but closer to a and d instead of all the way up at the top,2,304,37,86,84,97
+204,6.0,3,00:05:45.715000,i'm down in c,2,304,37,86,84,97
+205,6.0,4,00:06:01.094000,ill take a,2,304,37,86,84,97
+206,6.0,2,00:06:09.433000,There's less in b so I'm going to focus on this main forest area for the most part...,2,304,37,86,84,97
+207,,4,00:06:15.889000,great,2,304,37,86,84,97
+208,,3,00:06:16.315000,since that one quadrant sucks... maybe 2 to a section?,2,304,37,86,84,97
+209,,4,00:06:27.403000,sure,2,304,37,86,84,97
+210,6.0,1,00:06:34.980000,yeah I'll be moving from place to place,2,304,37,86,84,97
+211,,3,00:06:44.131000,zero i know who you are lol...,2,304,37,86,84,97
+212,6.0,2,00:06:47.278000,That works I can focus more on d then.,2,304,37,86,84,97
+213,,1,00:06:48.307000,I gots the speed,2,304,37,86,84,97
+214,6.0,4,00:07:11.601000,im going to keep my truck close to the houses in a but my heli deeper in the woods,2,304,37,86,84,97
+215,3.0,2,00:07:28.524000,You have a heli and a truck?!?! That's awesome1,2,304,37,86,84,97
+216,,4,00:07:35.275000,yay for me,2,304,37,86,84,97
+217,3.0,3,00:07:39.886000,have you figured out which  button controls multiples?,2,304,37,86,84,97
+218,,4,00:07:43.990000,no[e,2,304,37,86,84,97
+219,,1,00:07:47.687000,unit healt his one I don't get. are things going to shoot us later on or something?,2,304,37,86,84,97
+220,,4,00:07:54.800000,*nope,2,304,37,86,84,97
+221,,2,00:08:04.466000,Geez I hope not...,2,304,37,86,84,97
+222,,4,00:08:04.518000,ummm dunno,2,304,37,86,84,97
+223,,3,00:08:05.658000,i don't think there are any guns,2,304,37,86,84,97
+224,,2,00:08:10.724000,Only fires,2,304,37,86,84,97
+225,4.0,3,00:08:15.035000,i think we get damaged from being in the fires,2,304,37,86,84,97
+226,3.0,4,00:08:23.630000,how does I heal?,2,304,37,86,84,97
+227,,2,00:08:23.979000,That makes sense.,2,304,37,86,84,97
+228,3.0,2,00:08:37.715000,I don't think you do I had to replace my truck last time because it disappeared.,2,304,37,86,84,97
+229,6.0,3,00:08:38.957000,select a new vehicle... looks like there is unlimited,2,304,37,86,84,97
+230,6.0,2,00:08:51.825000,Here we go guys everyone ready?,2,304,37,86,84,97
+231,,4,00:08:57.505000,yup yup,2,304,37,86,84,97
+232,,1,00:08:58.900000,yeah,2,304,37,86,84,97
+233,,3,00:09:03.765000,sure lol,2,304,37,86,84,97
+234,6.0,2,00:09:16.779000,Lets do this!,2,304,37,86,84,97
+235,6.0,4,00:09:22.223000,lets save these ungrateful houses!,2,304,37,86,84,97
+236,,3,00:09:26.605000,*epic music*,2,304,37,86,84,97
+237,,2,00:09:27.097000,Bahahaha,2,304,37,86,84,97
+238,6.0,4,00:09:50.014000,and so it begins...,2,304,37,86,84,97
+239,3.0,3,00:10:43.782000,no compass of wind direction and speed,3,304,37,86,84,97
+240,,4,00:10:50.991000,i kno,3,304,37,86,84,97
+241,4.0,2,00:10:56.825000,Really? Mine showing northwest....,3,304,37,86,84,97
+242,3.0,2,00:11:05.268000,Actually more north than anything.,3,304,37,86,84,97
+243,,3,00:11:08.179000,a,3,304,37,86,84,97
+244,,2,00:11:10.783000,b,3,304,37,86,84,97
+245,,4,00:11:55.987000,lost a hoose,3,304,37,86,84,97
+246,,1,00:11:57.568000,I guess some fires really do go out by themselves,3,304,37,86,84,97
+247,,4,00:11:59.691000,: (,3,304,37,86,84,97
+248,,4,00:12:08.489000,a,3,304,37,86,84,97
+249,,1,00:12:10.177000,oh noes!,3,304,37,86,84,97
+250,,3,00:12:13.978000,c,3,304,37,86,84,97
+251,,3,00:12:17.387000,b,3,304,37,86,84,97
+252,,3,00:12:37.975000,a,3,304,37,86,84,97
+253,6.0,2,00:12:50.004000,yea if you cut it off the rest will die out.,3,304,37,86,84,97
+254,,2,00:13:00.645000,That's what it looks like anyways,3,304,37,86,84,97
+255,6.0,1,00:13:14.790000,works for me,3,304,37,86,84,97
+256,3.0,2,00:13:22.826000,Can you still not see the compass?,3,304,37,86,84,97
+257,3.0,4,00:13:28.051000,negative,3,304,37,86,84,97
+258,,3,00:13:30.719000,and all erupting at the same time. no compass.,3,304,37,86,84,97
+259,,4,00:13:37.040000,hmmm,3,304,37,86,84,97
+260,3.0,2,00:13:39.400000,That's no good...,3,304,37,86,84,97
+261,,2,00:13:57.834000,A,3,304,37,86,84,97
+262,4.0,2,00:14:39.058000,Compass is showing south.,3,304,37,86,84,97
+263,4.0,2,00:15:00.887000,Now it's showing southeast.,3,304,37,86,84,97
+264,,4,00:15:06.886000,thx,3,304,37,86,84,97
+265,,2,00:15:29.864000,no prob,3,304,37,86,84,97
+266,,4,00:15:42.530000,............................,3,304,37,86,84,97
+267,,3,00:15:46.898000,c,3,304,37,86,84,97
+268,,3,00:16:01.160000,ty heli,3,304,37,86,84,97
+269,6.0,2,00:16:06.768000,Sorry I knew I wouldn't be able to get there in time,3,304,37,86,84,97
+270,,2,00:16:14.522000,My truck is slow,3,304,37,86,84,97
+271,3.0,4,00:16:15.509000,its all good,3,304,37,86,84,97
+272,6.0,4,00:16:23.701000,ill stay close to c,3,304,37,86,84,97
+273,,4,00:16:30.783000,middle,3,304,37,86,84,97
+274,,3,00:17:26.505000,my houses,3,304,37,86,84,97
+275,,4,00:17:27.926000,houses in c,3,304,37,86,84,97
+276,,4,00:17:48.025000,noooo,3,304,37,86,84,97
+277,,3,00:18:13.824000,:((((,3,304,37,86,84,97
+278,,2,00:18:48.251000,In the next 6 minutes I gaurantee a HUGE fire is going to break out...,3,304,37,86,84,97
+279,6.0,2,00:19:00.853000,Protect the houses!!!,3,304,37,86,84,97
+280,,4,00:19:14.500000,think of the children,3,304,37,86,84,97
+281,,3,00:19:19.907000,and the puppies!,3,304,37,86,84,97
+282,,2,00:19:35.260000,Definitely the puppies!,3,304,37,86,84,97
+283,,4,00:19:39.174000,dudes ive got four units,3,304,37,86,84,97
+284,,3,00:19:45.239000,houses,3,304,37,86,84,97
+285,,3,00:19:58.754000,2 awesome,3,304,37,86,84,97
+286,,2,00:19:59.998000,You're so fast!,3,304,37,86,84,97
+287,,4,00:20:27.453000,c,3,304,37,86,84,97
+288,,3,00:20:50.085000,c,3,304,37,86,84,97
+289,,2,00:21:01.322000,Winds are showing north west.,3,304,37,86,84,97
+290,,3,00:21:30.796000,a,3,304,37,86,84,97
+291,,4,00:21:50.961000,middle,3,304,37,86,84,97
+292,,2,00:22:21.851000,Holy shit...,3,304,37,86,84,97
+293,6.0,2,00:23:12.630000,Haha did we save that farm or no?!?!,3,304,37,86,84,97
+294,,4,00:23:16.706000,one house survived,3,304,37,86,84,97
+295,,2,00:23:20.456000,Yay!!,3,304,37,86,84,97
+296,,3,00:23:26.042000,all those puppies,3,304,37,86,84,97
+297,,2,00:23:36.183000,c,3,304,37,86,84,97
+298,,3,00:24:06.595000,bottom,3,304,37,86,84,97
+299,,2,00:24:51.538000,I fthis is what firefighters have ti deal with then I sympathize,3,304,37,86,84,97
+300,,3,00:24:53.337000,that's all folks,3,304,37,86,84,97
+301,,4,00:24:57.362000,gg,3,304,37,86,84,97
+302,,4,00:25:00,g,3,304,37,86,84,97
+303,,4,00:25:00,gg,3,304,37,86,84,97
+304,4.0,4,00:00:36.762000,keep an eye on wind direction,1,304,37,86,84,97
+305,4.0,4,00:01:44.961000,yes so we should still have our own quandrant but stay in the forest,2,304,37,86,84,97
+306,4.0,2,00:04:43.328000,Yea we'll definitely need to stay focused on the houses.,2,304,37,86,84,97
+307,4.0,4,00:05:09.509000,lets find positions in the quadrants we can all agree upon,2,304,37,86,84,97
+308,4.0,2,00:05:37.795000,I'm going to be in b but closer to a and d instead of all the way up at the top,2,304,37,86,84,97
+309,4.0,3,00:05:45.715000,i'm down in c,2,304,37,86,84,97
+310,4.0,4,00:06:01.094000,ill take a,2,304,37,86,84,97
+311,4.0,2,00:06:09.433000,There's less in b so I'm going to focus on this main forest area for the most part...,2,304,37,86,84,97
+312,4.0,2,00:06:47.278000,That works I can focus more on d then.,2,304,37,86,84,97
+313,4.0,4,00:07:11.601000,im going to keep my truck close to the houses in a but my heli deeper in the woods,2,304,37,86,84,97
+314,6.0,3,00:07:39.886000,have you figured out which  button controls multiples?,2,304,37,86,84,97
+315,4.0,4,00:09:22.223000,lets save these ungrateful houses!,2,304,37,86,84,97
+316,4.0,4,00:16:23.701000,ill stay close to c,3,304,37,86,84,97
+317,4.0,2,00:19:00.853000,Protect the houses!!!,3,304,37,86,84,97

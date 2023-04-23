@@ -1,0 +1,262 @@
+,SA,Turn Taking,Time,Total,Simulation,Total Turns,Total Turns 1,Total Turns 2,Total Turns 3,Total Turns 4
+0,,2,00:00:00,Howdy,0,260,74,96,32,58
+1,,4,00:01:33.806000,Hi,0,260,74,96,32,58
+2,,2,00:01:36.338000,Well helicopters seem to be faste so it would probably be best if they were to access farther areas,0,260,74,96,32,58
+3,,2,00:01:48.477000,Where as the fire trucks should congregate closer to towers,0,260,74,96,32,58
+4,,4,00:01:49.775000,i agreed,0,260,74,96,32,58
+5,,3,00:01:50.549000,hello everyone,0,260,74,96,32,58
+6,,1,00:01:57.069000,agreed,0,260,74,96,32,58
+7,,2,00:01:57.889000,Howdy 3,0,260,74,96,32,58
+8,,3,00:02:01.772000,good idea about us trucks,0,260,74,96,32,58
+9,,2,00:02:01.932000,er 2,0,260,74,96,32,58
+10,,2,00:02:47.032000,Fires also seem to spread rapidly after a few seconds so new ones should be prioritized,0,260,74,96,32,58
+11,,1,00:03:03.469000,dont forget to check the windspeed and the directioln,0,260,74,96,32,58
+12,,2,00:03:14.780000,Ah yes.,0,260,74,96,32,58
+13,,2,00:03:43.577000,on the later stages of burning they seem to be invulnerable to wate so time should not be wasted with fires that are already going out,0,260,74,96,32,58
+14,,2,00:04:19.386000,I can't tell right now but does it seem to anyone else that larger fires require more people to extinguish?,0,260,74,96,32,58
+15,,1,00:04:51.284000,I haven't really notived that,0,260,74,96,32,58
+16,,2,00:05:00.030000,i may be wrong in that case,0,260,74,96,32,58
+17,,1,00:05:07.326000,not to say that it's not true,0,260,74,96,32,58
+18,,3,00:05:12.082000,i can't exactly tell yet,0,260,74,96,32,58
+19,,1,00:05:40.061000,new wind direction,0,260,74,96,32,58
+20,,2,00:05:43.621000,Aye,0,260,74,96,32,58
+21,,2,00:05:58.252000,Also once out health reaches 0 do we die?,0,260,74,96,32,58
+22,,1,00:06:12.584000,no. thats your water supply,0,260,74,96,32,58
+23,,1,00:06:22.031000,nvm,0,260,74,96,32,58
+24,,2,00:06:25.553000,"on the right hand side there is a ""unit health""",0,260,74,96,32,58
+25,,3,00:06:29.696000,water supply is watertank i thought,0,260,74,96,32,58
+26,,1,00:06:32.757000,i havent looked over there,0,260,74,96,32,58
+27,,1,00:06:37.779000,my bad,0,260,74,96,32,58
+28,,4,00:06:45.613000,whta's that little orange down arrow??,0,260,74,96,32,58
+29,,2,00:06:46.293000,Don't sweat it,0,260,74,96,32,58
+30,,2,00:07:18.130000,The orange down arrow seems to be... I'm not sure but there's smoke rising from it,0,260,74,96,32,58
+31,,2,00:07:35.858000,Not entirely sure what it is,0,260,74,96,32,58
+32,,1,00:07:52.780000,no wind direction,0,260,74,96,32,58
+33,,1,00:08:09.401000,new*,0,260,74,96,32,58
+34,3.0,2,00:08:28.873000,we also have a fuel level. Will that deplenish?,0,260,74,96,32,58
+35,,1,00:08:39.260000,is that flame in the left forest bothering anyone else?,0,260,74,96,32,58
+36,,2,00:08:49.978000,I don't see one,0,260,74,96,32,58
+37,5.0,2,00:09:27.158000,Also are we going to assign regions?,0,260,74,96,32,58
+38,,1,00:09:30.848000,it's right next to the helo,0,260,74,96,32,58
+39,,1,00:09:45.325000,we can,0,260,74,96,32,58
+40,,2,00:09:53.783000,I can't see one. it may be a client side bug,0,260,74,96,32,58
+41,,3,00:09:59.606000,I think we should assign regions especially for the trucks,0,260,74,96,32,58
+42,,2,00:00:00,Howdy,1,260,74,96,32,58
+43,,2,00:00:30.495000,Alright one truck should stick by each tower and the helo  should float between them,1,260,74,96,32,58
+44,3.0,4,00:00:35.572000,I'm a truck. I can take the upper left corner,1,260,74,96,32,58
+45,,1,00:00:37.535000,check,1,260,74,96,32,58
+46,,2,00:00:48.997000,Roger,1,260,74,96,32,58
+47,5.0,3,00:00:52.789000,I'll go to the lower middle portion (truck),1,260,74,96,32,58
+48,,2,00:01:46.990000,fore on rigvht,1,260,74,96,32,58
+49,,1,00:02:09.080000,Check wind direction,1,260,74,96,32,58
+50,,2,00:03:14.969000,oh geez,1,260,74,96,32,58
+51,,1,00:03:23,between outbreaks fill your water supplies,1,260,74,96,32,58
+52,,4,00:03:24.664000,LOL,1,260,74,96,32,58
+53,,4,00:03:30.107000,yup,1,260,74,96,32,58
+54,,1,00:03:52.423000,top right,1,260,74,96,32,58
+55,,1,00:04:52.723000,for quick typing. North = N West = W and so on,1,260,74,96,32,58
+56,,1,00:05:14.320000,WD = wind directon,1,260,74,96,32,58
+57,,2,00:05:16.826000,also keep eyes on health,1,260,74,96,32,58
+58,6.0,1,00:05:39.846000,how do we fix health??,1,260,74,96,32,58
+59,,4,00:05:44.405000,yeah,1,260,74,96,32,58
+60,,2,00:05:44.634000,you  don't,1,260,74,96,32,58
+61,,4,00:05:48.977000,dang,1,260,74,96,32,58
+62,,2,00:05:58.042000,dire E,1,260,74,96,32,58
+63,6.0,4,00:06:24.711000,probably shouldn't drive much since we can't refuel,1,260,74,96,32,58
+64,3.0,2,00:06:59.151000,someone is controlling 3 vehicles,1,260,74,96,32,58
+65,3.0,1,00:07:07.763000,i just noticed that,1,260,74,96,32,58
+66,,2,00:07:12.471000,8facepalm*,1,260,74,96,32,58
+67,,2,00:07:18.829000,town fire W,1,260,74,96,32,58
+68,,1,00:07:29.865000,Town NE,1,260,74,96,32,58
+69,,2,00:07:47.425000,dag nabbit,1,260,74,96,32,58
+70,,1,00:07:53.165000,Truck take NE with Water tower,1,260,74,96,32,58
+71,,1,00:08:00.840000,Helo Take W,1,260,74,96,32,58
+72,,1,00:08:35.687000,So can we have more than 1 vehicle at a time?,1,260,74,96,32,58
+73,,4,00:08:38.248000,did anyone else know that you can select many at one time?,1,260,74,96,32,58
+74,,2,00:08:43.274000,Yup,1,260,74,96,32,58
+75,,4,00:08:48.282000,yes. I just did it on accident,1,260,74,96,32,58
+76,,4,00:09:04.798000,haven't learned how to control them idividually yet thouh,1,260,74,96,32,58
+77,,1,00:09:05.270000,Kristin jsut said we can if we want,1,260,74,96,32,58
+78,,2,00:09:19.349000,Did she? That seems OP,1,260,74,96,32,58
+79,3.0,1,00:10:08.264000,I have two Helos!! WOO!,1,260,74,96,32,58
+80,,2,00:10:16.423000,OP,1,260,74,96,32,58
+81,,1,00:10:25.865000,NE,1,260,74,96,32,58
+82,,1,00:10:50.805000,What is OP?,1,260,74,96,32,58
+83,,2,00:10:54.692000,Overpowered,1,260,74,96,32,58
+84,,2,00:12:10.089000,I have a newfound appreciation for fire departments,1,260,74,96,32,58
+85,,1,00:12:27.863000,WTF was that?,1,260,74,96,32,58
+86,,2,00:12:31.174000,Fire.,1,260,74,96,32,58
+87,,2,00:12:51.787000,Too much of it actually,1,260,74,96,32,58
+88,6.0,4,00:12:53.816000,how did you guys get all your trucks helo's moving at the same time?,1,260,74,96,32,58
+89,,1,00:12:54.106000,We should have a memoriall for Smokey the bear,1,260,74,96,32,58
+90,6.0,2,00:13:18.980000,I'll start the funeral plans,1,260,74,96,32,58
+91,,2,00:13:27.933000,I think his ashes are scattered already though,1,260,74,96,32,58
+92,,1,00:13:40.056000,Deslect and hold shift while clicking all of the vehicles you want,1,260,74,96,32,58
+93,,4,00:14:00.954000,ah,1,260,74,96,32,58
+94,3.0,2,00:14:07.176000,already have. 2 trucks and 2 helos. OP.,1,260,74,96,32,58
+95,,4,00:14:32.821000,success!,1,260,74,96,32,58
+96,,4,00:00:00,Hello?,2,260,74,96,32,58
+97,,2,00:00:00,Alright,2,260,74,96,32,58
+98,,2,00:00:00,Howdy,2,260,74,96,32,58
+99,6.0,3,00:00:00,So we are supposed to chat for 10 min,2,260,74,96,32,58
+100,,4,00:00:00,I think so,2,260,74,96,32,58
+101,6.0,2,00:00:00,So last time  we didn't handle multiple eruptions very well.,2,260,74,96,32,58
+102,6.0,3,00:00:00,"I think it was pretty ""organized"" I guess",2,260,74,96,32,58
+103,,4,00:00:00,yup,2,260,74,96,32,58
+104,6.0,4,00:00:00,We need to assign sections to each player,2,260,74,96,32,58
+105,3.0,3,00:00:00,Yea I was overwhelmed with helo's flying from like way across lol,2,260,74,96,32,58
+106,6.0,2,00:00:03.061000,Aye I think we could improve on zoning outselve  then making our way to fir,2,260,74,96,32,58
+107,,4,00:00:15.869000,I concur 3,2,260,74,96,32,58
+108,4.0,1,00:00:38.277000,Since we can control multiple vehicles.,2,260,74,96,32,58
+109,,3,00:00:39.160000,The trucks are so slow so it might be best to assign smaller secitons,2,260,74,96,32,58
+110,,4,00:00:51.181000,Yes,2,260,74,96,32,58
+111,6.0,4,00:01:04.764000,we can also play with more than one vehicle,2,260,74,96,32,58
+112,6.0,1,00:01:05.716000,I think we should all be in charge of two vhicles and spread them out accordingly,2,260,74,96,32,58
+113,,3,00:01:17.251000,We passed on information via this chat box!!,2,260,74,96,32,58
+114,6.0,2,00:01:20.091000,Maybe we could each cover corners by the tower  leaning towards the center and then congregate towards the middle when fires erupt,2,260,74,96,32,58
+115,,4,00:01:33.197000,I'm with you 1,2,260,74,96,32,58
+116,,2,00:02:10.493000,The trucks should grab the south west and north west since there is more forest and villages by them,2,260,74,96,32,58
+117,,4,00:02:23.423000,we can select 2 choppers and 2 trucks seperately and move them in pairs,2,260,74,96,32,58
+118,,3,00:02:24.014000,I think that's a good idea 1,2,260,74,96,32,58
+119,,2,00:02:26.440000,The truck can extinguish faster and there isn't as much to extinguish to the east,2,260,74,96,32,58
+120,,4,00:02:30.470000,I agree,2,260,74,96,32,58
+121,5.0,2,00:02:43.419000,I'll grab the north east since I'm a helo,2,260,74,96,32,58
+122,3.0,4,00:02:50.877000,Who's grabbing what corners?,2,260,74,96,32,58
+123,4.0,2,00:03:03.395000,1 -> North East,2,260,74,96,32,58
+124,3.0,3,00:03:17.799000,I'm a truck so what corner do I need?,2,260,74,96,32,58
+125,4.0,1,00:03:17.928000,SE,2,260,74,96,32,58
+126,6.0,2,00:03:19.822000,Also don't be afraid to call for help if a fire gets too big,2,260,74,96,32,58
+127,5.0,4,00:03:20.687000,I'll take the NE,2,260,74,96,32,58
+128,4.0,2,00:03:30.498000,I'm already at NE,2,260,74,96,32,58
+129,4.0,4,00:03:42.378000,I mean NW my bad,2,260,74,96,32,58
+130,,2,00:03:45.550000,Alright,2,260,74,96,32,58
+131,4.0,1,00:03:50.057000,1 NE 0 S  2NW 3SW,2,260,74,96,32,58
+132,,2,00:03:58.348000,Sounds good,2,260,74,96,32,58
+133,,4,00:04:00.477000,yup,2,260,74,96,32,58
+134,,3,00:04:02.617000,Okay I have SW thanks,2,260,74,96,32,58
+135,6.0,2,00:04:08.751000,be quick on getting to the forest if there's a fire though,2,260,74,96,32,58
+136,,3,00:04:22.182000,They spread extremely fast,2,260,74,96,32,58
+137,6.0,2,00:04:36.575000,Also 0  if there's a fire in the village  meet me there to extinguish it,2,260,74,96,32,58
+138,,4,00:04:41.429000,yeah they do,2,260,74,96,32,58
+139,,1,00:04:42.614000,CHeck,2,260,74,96,32,58
+140,4.0,4,00:05:10.441000,I haven't mastered the typing and extinguishing at the same time,2,260,74,96,32,58
+141,6.0,2,00:05:19.256000,Prioritize extinguishing,2,260,74,96,32,58
+142,,3,00:05:19.976000,Neither have I 2,2,260,74,96,32,58
+143,3.0,4,00:05:21.829000,My focus isn't that good,2,260,74,96,32,58
+144,,1,00:05:32.320000,If there is a large fire check the wind direction. Only focus on the front line where the wind is heading,2,260,74,96,32,58
+145,4.0,3,00:05:39.887000,I can't manage to keep an eye on the wind either,2,260,74,96,32,58
+146,,4,00:05:47.758000,Me either 3,2,260,74,96,32,58
+147,,2,00:05:56.137000,Someone should call out the wind as it changes and watch it nonstop,2,260,74,96,32,58
+148,,4,00:06:01.853000,but it does help when someone says it,2,260,74,96,32,58
+149,5.0,3,00:06:03.880000,My focus will be my water supply and this little village near the water tower,2,260,74,96,32,58
+150,3.0,1,00:06:06.372000,I can do that,2,260,74,96,32,58
+151,,2,00:06:10.777000,Alright,2,260,74,96,32,58
+152,,4,00:06:13.931000,copy that 0,2,260,74,96,32,58
+153,,1,00:06:26.946000,for ex: W SSE,2,260,74,96,32,58
+154,3.0,3,00:06:40.680000,what's SSE?,2,260,74,96,32,58
+155,,4,00:06:41.132000,got it,2,260,74,96,32,58
+156,3.0,2,00:06:45.355000,South south east,2,260,74,96,32,58
+157,,4,00:06:48.036000,south south east,2,260,74,96,32,58
+158,,1,00:06:48.998000,South South East,2,260,74,96,32,58
+159,,2,00:06:51.089000,hehe,2,260,74,96,32,58
+160,,3,00:06:55.302000,ahh ok lol,2,260,74,96,32,58
+161,6.0,2,00:07:12.758000,Should we all make motivational speeches now?,2,260,74,96,32,58
+162,6.0,4,00:07:13.707000,Does everyone zoom out on thier screens?,2,260,74,96,32,58
+163,,2,00:07:17.835000,it's getting close to 10,2,260,74,96,32,58
+164,,2,00:07:22.760000,I do,2,260,74,96,32,58
+165,6.0,3,00:07:24.254000,Did we address all our questions accordingly?,2,260,74,96,32,58
+166,3.0,2,00:07:32.364000,I believe so,2,260,74,96,32,58
+167,3.0,4,00:07:33.833000,I suppose we did,2,260,74,96,32,58
+168,,3,00:07:36.086000,wonderful,2,260,74,96,32,58
+169,4.0,1,00:07:41.570000,I dont know how I should relay Wind speed. I am zoomed completelty out,2,260,74,96,32,58
+170,,1,00:07:53.970000,bc right now it's pretty strong,2,260,74,96,32,58
+171,6.0,1,00:08:11.819000,,2,260,74,96,32,58
+172,6.0,2,00:08:16.474000,NOW LISTEN HERE FIGHTER  THERE'S FIRES OUT THERE  PEOPLE TO SAVE  AND IT'S UP TO YOU TO STOP THEM! i DON'T WANT TO SEE GOOFING AROUND  LOLLYGAGING OR GOOFING OFF  I WANT TO SEE FIRES GO OUT AND PEOPLE SAVED!,2,260,74,96,32,58
+173,4.0,4,00:08:17.486000,I stay zoomed out,2,260,74,96,32,58
+174,,1,00:08:33.972000,wow....,2,260,74,96,32,58
+175,,2,00:08:40.989000,Make me proud.,2,260,74,96,32,58
+176,,3,00:08:41.658000,Nice speech,2,260,74,96,32,58
+177,,4,00:08:43.593000,LOL,2,260,74,96,32,58
+178,,4,00:08:51.782000,reminds me of boot camp,2,260,74,96,32,58
+179,,3,00:08:55.289000,haha,2,260,74,96,32,58
+180,,4,00:09:06.403000,countdown!,2,260,74,96,32,58
+181,,2,00:09:09.742000,t minus 50,2,260,74,96,32,58
+182,,1,00:09:14.458000,These poor villages are about the be torched. smh,2,260,74,96,32,58
+183,,4,00:09:19.641000,LOL,2,260,74,96,32,58
+184,6.0,3,00:09:20.304000,I plan to only control 1 vehicle if that's okay forgot how to get more than one,2,260,74,96,32,58
+185,,2,00:09:20.364000,40,2,260,74,96,32,58
+186,,2,00:09:23.292000,hahaha,2,260,74,96,32,58
+187,,4,00:09:25.483000,we got this,2,260,74,96,32,58
+188,,1,00:09:28.176000,check 3,2,260,74,96,32,58
+189,,2,00:09:40.842000,20,2,260,74,96,32,58
+190,,1,00:09:45.300000,W SSE,2,260,74,96,32,58
+191,,3,00:09:46.167000,I think I have a new career option now.. :),2,260,74,96,32,58
+192,,2,00:09:54.991000,5,2,260,74,96,32,58
+193,,2,00:10:00.068000,go.,3,260,74,96,32,58
+194,,1,00:10:17.026000,W NNE,3,260,74,96,32,58
+195,4.0,3,00:10:33.933000,I thought I was a truck but I have 2 helos?????,3,260,74,96,32,58
+196,,2,00:10:41.510000,roll with it,3,260,74,96,32,58
+197,4.0,1,00:10:51.481000,Yeah I think you took my Elvis helo,3,260,74,96,32,58
+198,,1,00:11:26.779000,SSE,3,260,74,96,32,58
+199,,2,00:11:42.008000,FOR NARNIA,3,260,74,96,32,58
+200,,1,00:11:44.284000,Help at SW,3,260,74,96,32,58
+201,,1,00:11:51.131000,Clear,3,260,74,96,32,58
+202,,1,00:12:09.273000,NNW,3,260,74,96,32,58
+203,,1,00:12:18.741000,SSE,3,260,74,96,32,58
+204,,3,00:12:24.278000,SW,3,260,74,96,32,58
+205,,1,00:12:34.295000,HELP SW,3,260,74,96,32,58
+206,6.0,2,00:12:39.236000,keep up the good work trucks,3,260,74,96,32,58
+207,,1,00:12:41.074000,SSW,3,260,74,96,32,58
+208,,1,00:12:48.009000,Clear,3,260,74,96,32,58
+209,,2,00:12:54.231000,Do'nt give up until the last tree stands!,3,260,74,96,32,58
+210,,4,00:13:06.204000,LOL,3,260,74,96,32,58
+211,,1,00:13:12.412000,If there's only one tree then we didn't do our job right,3,260,74,96,32,58
+212,,2,00:13:17.326000,Well... still,3,260,74,96,32,58
+213,,1,00:13:22.037000,just sayin,3,260,74,96,32,58
+214,,2,00:13:34.017000,hehehe,3,260,74,96,32,58
+215,,1,00:14:18.140000,Where NW,3,260,74,96,32,58
+216,,1,00:14:25.715000,Man your post!,3,260,74,96,32,58
+217,,4,00:14:36.017000,Who's up in my area?,3,260,74,96,32,58
+218,,1,00:15:03.595000,W SSE,3,260,74,96,32,58
+219,6.0,4,00:15:47.597000,are we supposed to be congregating in the middle?,3,260,74,96,32,58
+220,,1,00:15:48.817000,SW Post,3,260,74,96,32,58
+221,3.0,2,00:15:58.235000,that's just me,3,260,74,96,32,58
+222,3.0,2,00:16:04.660000,I'm controlling 3 groups,3,260,74,96,32,58
+223,,1,00:16:11.302000,Yall have got to pay attention to your coners,3,260,74,96,32,58
+224,,2,00:16:16.642000,I am as well,3,260,74,96,32,58
+225,,2,00:16:26.054000,2 groups in forest 1 at my corner,3,260,74,96,32,58
+226,,3,00:17:20.138000,town,3,260,74,96,32,58
+227,,1,00:17:27.888000,both towns,3,260,74,96,32,58
+228,4.0,4,00:17:51.490000,how do you control both groups at the same time?,3,260,74,96,32,58
+229,,2,00:17:56.580000,you don't,3,260,74,96,32,58
+230,6.0,2,00:18:11.556000,select move deselect select move,3,260,74,96,32,58
+231,,2,00:18:40.159000,Keeping a group in village now,3,260,74,96,32,58
+232,,4,00:18:50.557000,damn,3,260,74,96,32,58
+233,,1,00:19:49.132000,Don't move around so much. I t deplineshes your fuel,3,260,74,96,32,58
+234,,2,00:19:55.890000,but it's so much fun,3,260,74,96,32,58
+235,,4,00:19:57.907000,this is true,3,260,74,96,32,58
+236,,1,00:20:00.463000,Move when must,3,260,74,96,32,58
+237,,4,00:20:02.510000,LOL,3,260,74,96,32,58
+238,3.0,3,00:20:10.886000,i can't even see my fuel lever,3,260,74,96,32,58
+239,,2,00:20:16.322000,it's on the right,3,260,74,96,32,58
+240,,4,00:20:18.785000,me either,3,260,74,96,32,58
+241,,3,00:20:19.719000,level*,3,260,74,96,32,58
+242,4.0,1,00:20:29.261000,When you have more than one selected you canlt see your stats,3,260,74,96,32,58
+243,,2,00:20:33.479000,6,3,260,74,96,32,58
+244,,2,00:20:36.087000,oops,3,260,74,96,32,58
+245,,1,00:20:52.617000,SW GET TO YOUR POST!!,3,260,74,96,32,58
+246,,1,00:21:13.735000,W NNW,3,260,74,96,32,58
+247,,4,00:21:47.782000,help!,3,260,74,96,32,58
+248,,1,00:21:59.952000,To the center fire,3,260,74,96,32,58
+249,3.0,4,00:22:01.005000,I gotta get water!,3,260,74,96,32,58
+250,,1,00:22:07.177000,The other will extinguish,3,260,74,96,32,58
+251,,2,00:22:30.651000,those poor creatures,3,260,74,96,32,58
+252,4.0,4,00:22:41.810000,it's hard to ask for help when you're trying to put out fires,3,260,74,96,32,58
+253,,3,00:22:56.352000,agreed,3,260,74,96,32,58
+254,,2,00:22:59.228000,Aye,3,260,74,96,32,58
+255,6.0,2,00:23:16.500000,Someone play Taps for all those trees. I feel bad for em,3,260,74,96,32,58
+256,,4,00:23:36.630000,LOL,3,260,74,96,32,58
+257,,4,00:24:15.362000,don't forget to hydrate in between fires!,3,260,74,96,32,58
+258,3.0,2,00:24:18.653000,nicre job on those,3,260,74,96,32,58
+259,,2,00:25:00,gg,3,260,74,96,32,58
+260,3.0,4,00:15:47.597000,are we supposed to be congregating in the middle?,3,260,74,96,32,58
