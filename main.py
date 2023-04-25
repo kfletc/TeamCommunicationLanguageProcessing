@@ -15,11 +15,11 @@ import matplotlib.pyplot as plt
 #nltk.download()
 
 # creates clean data pickle
-#clean_dataset()
+clean_dataset()
 
 # adds performance categories to data and derives some features
-#CategorizeData.categorize_data("clean_data.pickle", "categorized_data.pickle", True)
-#CategorizeData.categorize_data_person("clean_data.pickle", "categorized_individual_data.pickle", True)
+CategorizeData.categorize_data("clean_data.pickle", "categorized_data.pickle", True)
+CategorizeData.categorize_data_person("clean_data.pickle", "categorized_individual_data.pickle", True)
 
 def classify(pickle_file, is_individual, use_sentiment):
     X, y = GetFeatures.tf_idf(pickle_file, is_individual)

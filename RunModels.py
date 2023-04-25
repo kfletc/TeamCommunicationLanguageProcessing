@@ -1,4 +1,4 @@
-
+# file to run classification algorithms given the features and categories. Performs Stratified Shuffle Split on the data before running it through the classifiers.
 from sklearn.naive_bayes import GaussianNB, BernoulliNB
 from sklearn import svm
 from sklearn.neural_network import MLPClassifier
