@@ -12,14 +12,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # downloads necessary corpora
-nltk.download()
+#nltk.download()
 
 # creates clean data pickle
-clean_dataset()
+#clean_dataset()
 
 # adds performance categories to data and derives some features
-CategorizeData.categorize_data("clean_data.pickle", "categorized_data.pickle", True)
-CategorizeData.categorize_data_person("clean_data.pickle", "categorized_individual_data.pickle", True)
+#CategorizeData.categorize_data("clean_data.pickle", "categorized_data.pickle", True)
+#CategorizeData.categorize_data_person("clean_data.pickle", "categorized_individual_data.pickle", True)
 
 def classify(pickle_file, is_individual, use_sentiment):
     X, y = GetFeatures.tf_idf(pickle_file, is_individual)
@@ -113,7 +113,6 @@ def classify(pickle_file, is_individual, use_sentiment):
             [],
             [],
             [],
-            [],
             []]
     maxes = []
     train_percentages = [0.3, 0.4, 0.5, 0.6, 0.7]
@@ -153,15 +152,6 @@ def classify(pickle_file, is_individual, use_sentiment):
             max = score
         data[3].append("%.2f" % score)
 
-        score, conf = RunModels.run_model("bernoulli_nb", X_total, y, train_percent, random_seed)
-        print("Score for bernoulli_nb with train size ", train_percent, ": ", score)
-        print("Confusion Matrix for bernoulli_nb: ")
-        print(conf)
-        score = score * 100
-        if score > max:
-            max = score
-        data[4].append("%.2f" % score)
-
         score, conf = RunModels.run_model("mlp", X_total, y, train_percent, random_seed)
         print("Score for mlp with train size ", train_percent, ": ", score)
         print("Confusion Matrix for mlp: ")
@@ -169,7 +159,7 @@ def classify(pickle_file, is_individual, use_sentiment):
         score = score * 100
         if score > max:
             max = score
-        data[5].append("%.2f" % score)
+        data[4].append("%.2f" % score)
 
         score, conf = RunModels.run_model("rf", X_total, y, train_percent, random_seed)
         print("Score for rf with train size ", train_percent, ":", score)
@@ -187,17 +177,17 @@ def classify(pickle_file, is_individual, use_sentiment):
         score = score * 100
         if score > max:
             max = score
-        data[7].append("%.2f" % score)
+        data[5].append("%.2f" % score)
 
         maxes.append(max)
 
     columns = ('30%', '40%', '50%',
                '60%', '70%')
-    rows = ['SVM (RBF)', 'SVM (Poly)', 'SVM (Linear)', 'Naive Bayes (Guassian)', 'Naive Bayes (Bernoulli)', 'MLP',
-            'Random Forest', 'Decision Tree']
+    rows = ['SVM (RBF)', 'SVM (Poly)', 'SVM (Linear)', 'Naive Bayes (Guassian)', 'MLP',
+            'Decision Tree', 'Random Forest']
 
     # Get some pastel shades for the colors
-    colors = ['tab:blue', 'tab:orange', 'tab:green', 'tab:red', 'tab:purple', 'tab:brown', 'tab:pink', 'tab:gray']
+    colors = ['tab:blue', 'tab:orange', 'tab:green', 'tab:red', 'tab:purple', 'tab:brown', 'tab:pink']
     n_rows = len(data)
 
     index = np.arange(len(columns)) + 0.3
