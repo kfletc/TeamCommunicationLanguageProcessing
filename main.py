@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # downloads necessary corpora
-#nltk.download()
+nltk.download()
 
 # creates clean data pickle
 clean_dataset()
